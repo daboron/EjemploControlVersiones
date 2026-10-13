@@ -29,3 +29,9 @@ Base<-3
 Altura<-2
 AreaTriangulo<-(Base*Altura)/2
 ```
+
+# Área rectángulo
+
+```{r}
+AreaTriangulo<-Base*Altura
+```
